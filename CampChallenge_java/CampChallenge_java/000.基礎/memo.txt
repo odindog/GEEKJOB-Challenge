@@ -1,0 +1,2 @@
+プロセッサ: Intel(R) Core(TM)i5-8400 CPU 2.80GHz 2.81GHz
+実装メモリ: 8.00 GB
